@@ -1,6 +1,6 @@
 import random
 import os
-
+print("ok i id it")
 class Pyris:
     FILENAME = "question_sets of pyris.txt"
 
