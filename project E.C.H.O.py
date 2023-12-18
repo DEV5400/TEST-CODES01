@@ -17,7 +17,7 @@ THIS IS REAL EASTER EGG NO KIDDING!, no malicious links , link directs to NOTION
 In recognition of your astute curiosity and valor, I present to you a secret passage leading to an ethereal sanctuary.
  Venture forth to this sacred link: [https://bevel-mirror-618.notion.site/old-zicron-66441d98e151466e89c4881af0ad3b38?pvs=4].
  Beyond its gates lies a priceless boon awaiting your discovery.
- Embark on this quest, and may the anticipation of treasure stir your soul with excitement!''')
+ Embark on this quest, and may the anticipation of treasure stir your soul with excitement!  \n''')
 
 r = input(f'''{n}, how has your day been so far? Anything 
 exciting or noteworthy you'd like to share? -- your response:  \n''')
